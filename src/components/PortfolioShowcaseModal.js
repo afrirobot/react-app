@@ -69,7 +69,7 @@ const PortfolioShowcaseModal = ({ isOpen, onClose, onViewImage }) => {
       videoUrl: 'https://youtu.be/4WKgthPO8l8?si=lwG5m4abJPf2M9gN'
     },
     {
-      image: 'video edit/long.jpg',
+      image: 'video edit/long.avif',
       title: 'Long Form Videos',
       description: 'Detailed YouTube tutorials, documentaries, and presentations',
       features: ['Professional Narration', 'Detailed Content'],
