@@ -47,13 +47,13 @@ const PortfolioShowcaseModal = ({ isOpen, onClose, onViewImage }) => {
       features: ['Custom Concepts', 'Brand Consistency']
     },
     {
-      image: 'graphics design/thumbnail.jpg',
+      image: 'graphics design/thumbnail.avif',
       title: 'YouTube Thumbnails',
       description: 'High-click-through-rate thumbnail designs that drive views',
       features: ['High CTR', 'Engaging Visuals']
     },
     {
-      image: 'graphics design/ads design.jpg',
+      image: 'graphics design/ads design.avif',
       title: 'Advertisement Designs',
       description: 'Professional ad creatives for digital marketing campaigns',
       features: ['Conversion Focused', 'Multi-Platform']
@@ -62,7 +62,7 @@ const PortfolioShowcaseModal = ({ isOpen, onClose, onViewImage }) => {
 
   const videoEditingItems = [
     {
-      image: 'video edit/short.jpg',
+      image: 'video edit/short.avif',
       title: 'Short Form Videos',
       description: 'Engaging Reels, TikTok, and Shorts content with dynamic editing',
       features: ['Fast-paced Editing', 'Trend Integration'],
@@ -79,28 +79,28 @@ const PortfolioShowcaseModal = ({ isOpen, onClose, onViewImage }) => {
 
   const techDevItems = [
     {
-      image: 'tech dev/1.jpg',
+      image: 'tech dev/1.avif',
       title: 'E-Commerce Website',
       description: 'Full-featured online store with shopping cart and payment processing',
       features: ['Responsive Design', 'Payment Integration', 'Admin Dashboard'],
       link: '#'
     },
     {
-      image: 'tech dev/2.jpg',
+      image: 'tech dev/2.avif',
       title: 'Fitness Tracker App',
       description: 'Mobile application for tracking workouts and nutrition',
       features: ['Cross-Platform', 'Workout Plans', 'Progress Tracking'],
       link: '#'
     },
     {
-      image: 'tech dev/3.jpg',
+      image: 'tech dev/3.avif',
       title: 'AI Content Generator',
       description: 'AI-powered tool for generating marketing content',
       features: ['Content Creation', 'SEO Optimization', 'Multi-language'],
       link: '#'
     },
     {
-      image: 'tech dev/4.jpg',
+      image: 'tech dev/4.avif',
       title: 'Security Dashboard',
       description: 'Real-time security monitoring and threat detection system',
       features: ['Real-time Monitoring', 'Threat Detection', 'Automated Reports'],
