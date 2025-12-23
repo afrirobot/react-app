@@ -10,17 +10,7 @@ const Contact = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [focusedFields, setFocusedFields] = useState({});
 
-  useEffect(() => {
-    ScrollReveal({
-      reset: true,
-      distance: '80px',
-      duration: 2000,
-      delay: 200
-    });
-
-    ScrollReveal().reveal('.contact .heading', { origin: 'top' });
-    ScrollReveal().reveal('.contact-form', { origin: 'bottom' });
-  }, []);
+  
 
   const handleInputChange = (e) => {
     const { name, value } = e.target;
