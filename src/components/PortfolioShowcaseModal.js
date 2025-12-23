@@ -41,7 +41,7 @@ const PortfolioShowcaseModal = ({ isOpen, onClose, onViewImage }) => {
 
   const graphicDesignItems = [
     {
-      image: 'graphics design/logos design.jpg',
+      image: 'graphics design/logos design.avif',
       title: 'Logo Design',
       description: 'Creative logos designed to represent your brand identity',
       features: ['Custom Concepts', 'Brand Consistency']
