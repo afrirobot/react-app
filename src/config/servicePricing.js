@@ -69,17 +69,17 @@ export const servicePricing = {
 };
 
 export const toolsList = [
-    { name: 'Oryza', logo: 'logos/Oryza.png' },
-    { name: 'Wyvora', logo: 'logos/Wyvora.png' },
-    { name: 'Xraden', logo: 'logos/Xraden.png' },
-    { name: 'Acentra Corp', logo: 'logos/Acentra Corp.png' },
-    { name: 'Boxera', logo: 'logos/Boxera.png' },
-    { name: 'Kyvera', logo: 'logos/Kyvera.png' },
-    { name: 'Eryven', logo: 'logos/Eryven.png' },
-    { name: 'Fivan', logo: 'logos/Fivan.png' },
-    { name: 'Mynto', logo: 'logos/Mynto.png' },
-    { name: 'Fyntra', logo: 'logos/Fyntra.png' },
-    { name: 'Lravel', logo: 'logos/Lravel.png' },
-    { name: 'Axora', logo: 'logos/Axora.png' }
+    { name: 'Oryza', logo: 'logos/Oryza.avif' },
+    { name: 'Wyvora', logo: 'logos/Wyvora.avif' },
+    { name: 'Xraden', logo: 'logos/Xraden.avif' },
+    { name: 'Acentra Corp', logo: 'logos/Acentra Corp.avif' },
+    { name: 'Boxera', logo: 'logos/Boxera.avif' },
+    { name: 'Kyvera', logo: 'logos/Kyvera.avif' },
+    { name: 'Eryven', logo: 'logos/Eryven.avif' },
+    { name: 'Fivan', logo: 'logos/Fivan.avif' },
+    { name: 'Mynto', logo: 'logos/Mynto.avif' },
+    { name: 'Fyntra', logo: 'logos/Fyntra.avif' },
+    { name: 'Lravel', logo: 'logos/Lravel.avif' },
+    { name: 'Axora', logo: 'logos/Axora.avif' }
 ];
 
