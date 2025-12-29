@@ -389,7 +389,7 @@ const OrderModal = ({ isOpen, onClose, selectedService }) => {
                       type="tel"
                       name="phone"
                       id="orderPhone"
-                      placeholder="Phone Number"
+                      placeholder="your whatsApp phone number"
                       value={formData.phone}
                       onChange={handleFormChange}
                     />
