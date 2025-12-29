@@ -36,8 +36,8 @@ const Home = ({ onOrderClick }) => {
           <a href="https://www.youtube.com/@Afrirobot" target="_blank" rel="noopener noreferrer">
             <i className='bx bxl-youtube'></i>
           </a>
-          <a href="https://t.me/afrirobot" target="_blank" rel="noopener noreferrer">
-            <i className='bx bxl-telegram'></i>
+          <a href="https://x.com/Afrirobot1" target="_blank" rel="noopener noreferrer">
+            <i class="fa-brands fa-x-twitter"></i>
           </a>
         </div>
         <a 
