@@ -175,7 +175,7 @@ const OrderModal = ({ isOpen, onClose, selectedService }) => {
         body: JSON.stringify(submitData)
       });
 
-      alert(`Thank you, ${formData.name}! Your order has been received.\n\nService: ${service.name}\nTotal: $${total}\n\nWe will contact you at ${formData.email} shortly.`);
+      alert(`Thank you, ${formData.name}! Your order has been received.\n\nService: ${service.name}\nTotal: $${total}\n\nWe will contact you at ${formData.email} or ${formData.phone} shortly.`);
       onClose();
       setFormData({ name: '', email: '', phone: '', details: '', driveLink: '' });
       setSelections({});
