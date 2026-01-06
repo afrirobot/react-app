@@ -66,7 +66,7 @@ const PortfolioShowcaseModal = ({ isOpen, onClose, onViewImage }) => {
       title: 'Short Form Videos',
       description: 'Engaging Reels, TikTok, and Shorts content with dynamic editing',
       features: ['Fast-paced Editing', 'Trend Integration'],
-      videoUrl: 'https://youtu.be/4WKgthPO8l8?si=lwG5m4abJPf2M9gN'
+      videoUrl: 'https://youtu.be/5-OiY2m-uQM?si=sku9pNFWo8yzAcaB'
     },
     {
       image: 'video edit/long.avif',
