@@ -73,7 +73,7 @@ export const toolsList = [
     { name: 'Wyvora', logo: 'logos/Wyvora.avif' },
     { name: 'Xraden', logo: 'logos/Xraden.avif' },
     { name: 'Acentra Corp', logo: 'logos/Acentra Corp.avif' },
-    { name: 'Boxera', logo: 'logos/Boxera.avif' },
+    { name: 'Boxera', logo: 'logos/1.jpg' },
     { name: 'Kyvera', logo: 'logos/Kyvera.avif' },
     { name: 'Eryven', logo: 'logos/Eryven.avif' },
     { name: 'Fivan', logo: 'logos/Fivan.avif' },
