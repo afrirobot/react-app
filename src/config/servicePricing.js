@@ -69,17 +69,17 @@ export const servicePricing = {
 };
 
 export const toolsList = [
-    { name: 'Oryza', logo: 'logos/Oryza.avif' },
-    { name: 'Wyvora', logo: 'logos/Wyvora.avif' },
-    { name: 'Xraden', logo: 'logos/Xraden.avif' },
-    { name: 'Acentra Corp', logo: 'logos/Acentra Corp.avif' },
-    { name: 'Boxera', logo: 'logos/2.png' },
-    { name: 'Kyvera', logo: 'logos/Kyvera.avif' },
-    { name: 'Eryven', logo: 'logos/Eryven.avif' },
-    { name: 'Fivan', logo: 'logos/Fivan.avif' },
-    { name: 'Mynto', logo: 'logos/Mynto.avif' },
-    { name: 'Fyntra', logo: 'logos/Fyntra.avif' },
-    { name: 'Lravel', logo: 'logos/Lravel.avif' },
-    { name: 'Axora', logo: 'logos/Axora.avif' }
+    { name: '@yoyohassane', logo: 'logos/1.avif' },
+    { name: '@quasarcentralbts', logo: 'logos/2.avif' },
+    { name: '@georgeoctavio', logo: 'logos/3.avif' },
+    { name: '@mafolebaraka', logo: 'logos/4.avif' },
+    { name: '@aerial_hd', logo: 'logos/12.png' },
+    { name: '@dayoffdiy', logo: 'logos/5.avif' },
+    { name: '@mario.valencia23', logo: 'logos/6.avif' },
+    { name: '@preston.chambers1', logo: 'logos/7.avif' },
+    { name: '@mishaperov_', logo: 'logos/8.avif' },
+    { name: '@elysyan', logo: 'logos/9.avif' },
+    { name: '@natexmorrissey', logo: 'logos/10.avif' },
+    { name: '@johnazizzz', logo: 'logos/11.avif' }
 ];
 
