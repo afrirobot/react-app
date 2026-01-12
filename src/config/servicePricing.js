@@ -73,7 +73,7 @@ export const toolsList = [
     { name: '@quasarcentralbts', logo: 'logos/2.avif' },
     { name: '@georgeoctavio', logo: 'logos/3.avif' },
     { name: '@mafolebaraka', logo: 'logos/4.avif' },
-    { name: '@aerial_hd', logo: 'logos/12.png' },
+    { name: '@aerial_hd', logo: 'logos/12.avif' },
     { name: '@dayoffdiy', logo: 'logos/5.avif' },
     { name: '@mario.valencia23', logo: 'logos/6.avif' },
     { name: '@preston.chambers1', logo: 'logos/7.avif' },
