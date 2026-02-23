@@ -5,9 +5,9 @@ export const servicePricing = {
         icon: 'bx bx-pencil',
         description: 'Professional graphic design services including YouTube thumbnails, Instagram posts, and advertisement designs. High-quality visuals that capture attention and drive engagement.',
         options: {
-            'youtube-thumbnail': { name: 'YouTube Thumbnail', single: 15, package: 100, packageCount: 15 },
+            'youtube-thumbnail': { name: 'YouTube Thumbnail', single: 15, package: 150, packageCount: 15 },
             'instagram-post': { name: 'Logo-Design', single: 50, package: 150, packageCount: 5.5 },
-            'ads-design': { name: 'Ads Design', single: 15, package: 100, packageCount: 15 }
+            'ads-design': { name: 'Ads Design', single: 15, package: 170, packageCount: 15 }
         }
     },
     'video-editing': {
